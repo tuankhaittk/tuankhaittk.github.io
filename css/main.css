@@ -520,6 +520,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 
   position: relative;
   overflow: hidden;
+  padding-top: 3px;
 }
 .meter > span  > span{
   margin-left: 4px;
